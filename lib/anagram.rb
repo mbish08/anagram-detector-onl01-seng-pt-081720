@@ -7,7 +7,7 @@ def initialize
 end 
 
 def match(word_array)
-  
+  word_array.select.each do |new_word|
   
   
 end 
